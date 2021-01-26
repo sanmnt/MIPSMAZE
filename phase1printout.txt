@@ -1,0 +1,16 @@
+Please enter a random seed: 5
+Enter the width of the maze: 5
+Enter the height of the maze: 5
++--+  +--+--+--+
+|  |  |  |  |  |  
++--+--+--+--+--+
+|  |  |  |  |  |  
++--+--+--+--+--+
+|  |  |  |  |  |  
++--+--+--+--+--+
+|  |  |  |  |  |  
++--+--+--+--+--+
+|  |  |  |  |  |  
++  +--+--+--+--+
+
+-- program is finished running --
